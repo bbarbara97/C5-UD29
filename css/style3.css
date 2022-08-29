@@ -1,0 +1,18 @@
+table {
+    text-align: center;
+    background-color: rgb(213, 252, 149);
+    background-image: url("/img/descarga2.png");
+    color: rgb(54, 37, 4);
+}
+
+tr:first-child {
+    background-color: rgb(3, 139, 98);
+}
+
+tr:nth-child(2) {
+    background-color: rgb(250, 194, 146);
+}
+
+tr:nth-child(3) {
+    background-color: rgb(250, 246, 146);
+}

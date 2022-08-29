@@ -1,0 +1,23 @@
+/* th:nth-child(2) {
+    color: red;
+} */
+
+.dos {
+    background-color: aqua;
+}
+
+.rojo {
+    color: red;
+}
+
+.rosa {
+    background-color: palevioletred;
+}
+
+.verde {
+    background-color: greenyellow;
+}
+
+strong {
+    text-align: center;
+}

@@ -1,0 +1,27 @@
+body {
+    color: rgb(220, 249, 208);
+}
+
+table {
+    box-shadow: inset -5px -5px 0 -1px #888;
+}
+
+th {
+    background-color: rgb(2, 68, 2);
+}
+
+tr {
+    background-color: #388a12;
+}
+
+tr:nth-child(even) {
+    background-color: #61c334;
+}
+
+.musc {
+    background-color: #388a12!important;
+}
+
+.step {
+    background-color: #61c334;
+}
