@@ -11,22 +11,22 @@ div {
 }
 
 .modA {
-    background-image: url("/img/mantel.png");
+    background-image: url("../img/mantel.png");
 }
 
 .modB {
-    background-image: url("/img/mantel.png");
+    background-image: url("../img/mantel.png");
     background-clip: content-box;
     border: 1px solid black;
 }
 
 .modC {
-    background-image: url("/img/mantel.png");
+    background-image: url("../img/mantel.png");
     background-size: 100%;
 }
 
 .modD {
-    background-image: url("/img/mantel.png");
+    background-image: url("../img/mantel.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-origin: content-box;
@@ -35,13 +35,13 @@ div {
 }
 
 .modE {
-    background-image: url("/img/grito.jpg");
+    background-image: url("../img/grito.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .modF {
-    background-image: url("/img/grito.jpg");
+    background-image: url("../img/grito.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-origin: content-box;
@@ -50,7 +50,7 @@ div {
 }
 
 .modG {
-    background-image: url("/img/grito2.jpg");
+    background-image: url("../img/grito2.jpg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -59,7 +59,7 @@ div {
 }
 
 .modH {
-    background-image: url("/img/grito3.jpg");
+    background-image: url("../img/grito3.jpg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
